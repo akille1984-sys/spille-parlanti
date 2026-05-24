@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spilla parlante</title>
+  <meta name="description" content="Una spilla parlante NFC a sostegno del Pride." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="card" id="card">
+      <p class="eyebrow">Spilla parlante sbloccata</p>
+      <h1 id="pin-title">Avvicina il telefono a una spilla NFC</h1>
+      <p id="pin-phrase" class="phrase">Ogni spilla apre solo il suo audio. Piccolo talismano pop, grande dramma sonoro.</p>
+
+      <div id="player-wrap" class="player-wrap hidden">
+        <audio id="audio-player" controls preload="metadata"></audio>
+      </div>
+
+      <p id="status" class="status"></p>
+
+      <div class="donation">
+        <p>Questa spilla sostiene VCO Pride 🌈</p>
+        <a id="donation-link" class="button secondary" href="#" target="_blank" rel="noopener">Dona con Satispay</a>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
