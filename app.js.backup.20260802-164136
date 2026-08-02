@@ -58,21 +58,6 @@ const PINS = {
     "title": "Sei falsa Simona!",
     "phrase": "Sei falsa Simona!",
     "audio": "audio/6m2vl4sv.mp3"
-  },
-  "dHvwWUFVD": {
-    "title": "Lesbica, immagino!",
-    "phrase": "Lesbica, immagino!",
-    "audio": "audio/n9aiyzu6.mp3"
-  },
-  "klzoNiDU5": {
-    "title": "La ex Sis ora è il Bro",
-    "phrase": "La ex Sis ora è il Bro",
-    "audio": "audio/rx6vli8f.mp3"
-  },
-  "sREcGlLuv": {
-    "title": "Omosessuale stupidino.",
-    "phrase": "Omosessuale stupidino.",
-    "audio": "audio/gdtlo81o.mp3"
   }
 };
 
